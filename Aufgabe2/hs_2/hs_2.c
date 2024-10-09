@@ -5,7 +5,7 @@
 
 int main(void)
 {
-	printf("\nName: Bala Krishnan Gopala Krishnan!\nMatrikel Nummer: 575018330315\n\n");
+	printf("\nName:Yara Al Sammour\nMatrikel Nummer: 018359749\n");
 	return 0;
 }
 
